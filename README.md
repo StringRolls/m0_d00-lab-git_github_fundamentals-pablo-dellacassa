@@ -7,7 +7,7 @@ I am from Naples Italy and I moved to Barcelona to teach at Ironhack.
 
 ## 🤓 Course overview and learning outcomes 
 
-Marco welcomes all of you guys to the Desarroladores Masquerades
+Marco welcomes all of you guys to the String Rolls
 
 The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on the github platform. 🚀
 
